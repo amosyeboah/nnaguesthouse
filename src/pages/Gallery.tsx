@@ -33,7 +33,7 @@ const galleryImages = [
   {
     id: 4,
     src: room4,
-    title: 'Luxury King Suite',
+    title: 'King Suite',
     category: 'rooms'
   },
   {
@@ -45,13 +45,13 @@ const galleryImages = [
   {
     id: 6,
     src: reception1,
-    title: 'Elegant Bathroom',
+    title: 'Elegant Reception Area',
     category: 'exterior'
   },
   {
     id: 7,
     src: 'https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Outdoor Pool Area',
+    title: 'bar and Lounge',
     category: 'exterior'
   },
   {
@@ -69,7 +69,7 @@ const galleryImages = [
   {
     id: 10,
     src: recept,
-    title: 'Cozy Lounge Area',
+    title: 'Reception Area',
     category: 'exterior'
   },
   {
@@ -81,7 +81,7 @@ const galleryImages = [
   {
     id: 12,
     src: bathroom,
-    title: 'Fitness Center',
+    title: 'Elegant Bathroom',
     category: 'amenities'
   }
 ];
