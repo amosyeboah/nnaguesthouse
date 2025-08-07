@@ -31,7 +31,7 @@ function App() {
         <Footer />
         
         {/* ✅ WhatsApp Floating Button (visible on all pages) */}
-      <WhatsAppButton phoneNumber="0240 8570 85" message="Hi! I'd like to discuss your services." />
+      <WhatsAppButton phoneNumber="+233 2569 71619" message="Hi! I'd like to discuss your services." />
 
       </div>
     </Router>
